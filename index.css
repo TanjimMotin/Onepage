@@ -119,7 +119,9 @@ footer{
 	width: 100%;
 	background-color: black;
 }
-
+ul {
+  margin-left: 40%;
+}
 ul li {
 	
   float: left;
@@ -127,8 +129,19 @@ ul li {
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
-  padding-left: 50px;
+  font-family: 'Indie Flower', cursive;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 25px;
 
+}
+h5{
+  color: #f2f2f2;
+  padding-left: 85%;
+  padding-top: 60px;	
+}
+span {
+  color: #f2f2f2;
+  padding-left: 85%;
+  padding-top: 70px;
+  font-size: 10px;	
 }
